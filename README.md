@@ -18,6 +18,8 @@ alsdjflasjdflkjsdsafd
 
 # another big heading
 
-#Not yet commited but cookies
+#How to contribute
+
+Fork this repo -> pull request and review.
 
 2016 Git Training
